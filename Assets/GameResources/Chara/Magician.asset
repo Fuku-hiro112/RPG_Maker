@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3f88cf7a481bc4396003f488564858, type: 3}
+  m_Name: Magician
+  m_EditorClassIdentifier: 
+  _name: "\u6C34\u9B54\u5C0E\u58EB"
+  _description: 
+  _rightSprite: {fileID: 107534681, guid: 3c0e7c9e7ed6db04a8854ddd33cac7dc, type: 3}
+  _leftSprite: {fileID: -1834785279, guid: 3c0e7c9e7ed6db04a8854ddd33cac7dc, type: 3}
+  _type: 2
+  _maxHp: 100
+  _maxSp: 200
+  _attack: 50
+  _defense: 40
+  _spAttack: 100
+  _spDefense: 80
+  _speed: 100
+  _experience: 2000
+  _learnableMoves:
+  - _base: {fileID: 11400000, guid: 65f05bc84a931654fbfd734f027e4074, type: 2}
+    _level: 10
+  - _base: {fileID: 11400000, guid: 3a6831687c390bd4e8d60cd591952b60, type: 2}
+    _level: 12
+  - _base: {fileID: 11400000, guid: 03e18ba85ae5a0e4a848220d1fdc64cb, type: 2}
+    _level: 13
+  - _base: {fileID: 11400000, guid: 45d5cc939faf0334f8d9ecf8af3a0f95, type: 2}
+    _level: 15

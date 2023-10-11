@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SollidObjects
+  - GoalObject
+  - Collectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2963221185
+    locked: 0
+  - name: SolidObjects
+    uniqueID: 1020962175
+    locked: 0
+  - name: Object
+    uniqueID: 1475155411
+    locked: 0
+  - name: Actors
+    uniqueID: 2885127449
+    locked: 0
+  - name: GoalObject
+    uniqueID: 1130889355
+    locked: 0

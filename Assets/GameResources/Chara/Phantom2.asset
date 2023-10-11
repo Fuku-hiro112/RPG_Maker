@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3f88cf7a481bc4396003f488564858, type: 3}
+  m_Name: Phantom2
+  m_EditorClassIdentifier: 
+  _name: "\u30D6\u30EB\u30FC\u30D5\u30A1\u30F3\u30C8\u30E0"
+  _description: 
+  _rightSprite: {fileID: 107534681, guid: 3c0e7c9e7ed6db04a8854ddd33cac7dc, type: 3}
+  _leftSprite: {fileID: -1834785279, guid: 3c0e7c9e7ed6db04a8854ddd33cac7dc, type: 3}
+  _type: 2
+  _maxHp: 100
+  _maxSp: 80
+  _attack: 40
+  _defense: 40
+  _spAttack: 80
+  _spDefense: 60
+  _speed: 80
+  _experience: 2000
+  _learnableMoves:
+  - _base: {fileID: 11400000, guid: e3725e93516a6b746866df586c94e573, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: 3a6831687c390bd4e8d60cd591952b60, type: 2}
+    _level: 0

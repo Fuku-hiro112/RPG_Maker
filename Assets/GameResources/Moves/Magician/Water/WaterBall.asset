@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2c2d5536162ae4eb834d2c8e95da15, type: 3}
+  m_Name: WaterBall
+  m_EditorClassIdentifier: 
+  _name: "\u30A6\u30A9\u30FC\u30BF\u30FC\u30DC\u30FC\u30EB"
+  _description: "\u5C0F\u3055\u306A\u6C34\u306E\u7389\u3092\u653E\u3061\u3001\u6575\u306B\u6C34\u306E\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u308B\u3002"
+  _type: 2
+  _accuracy: 90
+  _sp: 10
+  _category: 1
+  _sprite: {fileID: -193866863, guid: 92767866fd083534884b37b6a4d0ef62, type: 3}
+  _power: 40

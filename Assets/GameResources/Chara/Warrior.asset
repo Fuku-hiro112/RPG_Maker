@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3f88cf7a481bc4396003f488564858, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  _name: "\u706B\u6B66\u95D8\u5BB6"
+  _description: 
+  _rightSprite: {fileID: -535406921, guid: 2e5fd23b1e829b6418f90e9be3aa7195, type: 3}
+  _leftSprite: {fileID: 794519601, guid: 2e5fd23b1e829b6418f90e9be3aa7195, type: 3}
+  _type: 1
+  _maxHp: 100
+  _maxSp: 100
+  _attack: 100
+  _defense: 60
+  _spAttack: 50
+  _spDefense: 40
+  _speed: 100
+  _experience: 2000
+  _learnableMoves:
+  - _base: {fileID: 11400000, guid: 4e6018a3a18eca546acf15e853e5ea71, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: 5c5010723ab6a4f4f96159f5c2844194, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: fc5b95a639b0ec54191f03d60c3e93b2, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: 8866a3a5251410d4db5a34743ac9517c, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: fa94a8fc9e69b554d8c6f9449aeeef26, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: d510af8bb0cbe1d48be1a8916e5e0ee8, type: 2}
+    _level: 0
+  - _base: {fileID: 11400000, guid: eba81e03c7423d441978027c23415b0d, type: 2}
+    _level: 0

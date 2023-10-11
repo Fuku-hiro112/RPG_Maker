@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2c2d5536162ae4eb834d2c8e95da15, type: 3}
+  m_Name: DarkEclipse
+  m_EditorClassIdentifier: 
+  _name: "\u30C0\u30FC\u30AF\u30A8\u30AF\u30EA\u30D7\u30B9"
+  _description: "\u5468\u56F2\u306E\u5149\u3092\u5438\u53CE\u3057\u3066\u3001\u6697\u9ED2\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\u7206\u767A\u7684\u306B\u653E\u51FA\u3055\u308C\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u308B\u3002"
+  _type: 4
+  _accuracy: 90
+  _sp: 10
+  _category: 1
+  _sprite: {fileID: 21300000, guid: 77e720d7cd495ac419e3a773c279e8a9, type: 3}
+  _power: 40

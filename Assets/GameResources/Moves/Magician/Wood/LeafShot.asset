@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2c2d5536162ae4eb834d2c8e95da15, type: 3}
+  m_Name: LeafShot
+  m_EditorClassIdentifier: 
+  _name: "\u30EA\u30FC\u30D5\u30B7\u30E7\u30C3\u30C8"
+  _description: "\u6728\u306E\u8449\u3092\u653E\u3061\u3001\u6575\u306B\u6728\u306E\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u308B\u3002"
+  _type: 3
+  _accuracy: 90
+  _sp: 10
+  _category: 1
+  _sprite: {fileID: 21300000, guid: fc39ed9aa21ea7a4b80e0acc2c39ee0d, type: 3}
+  _power: 40

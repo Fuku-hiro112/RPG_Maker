@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2c2d5536162ae4eb834d2c8e95da15, type: 3}
+  m_Name: ForestKick
+  m_EditorClassIdentifier: 
+  _name: "\u30D5\u30A9\u30EC\u30B9\u30C8\u30AD\u30C3\u30AF"
+  _description: 
+  _type: 3
+  _accuracy: 100
+  _sp: 0
+  _category: 0
+  _sprite: {fileID: 0}
+  _power: 0
