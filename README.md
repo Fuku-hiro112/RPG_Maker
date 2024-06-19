@@ -23,12 +23,15 @@ VisualStudio2022, Unity2022.2.6f1,
 **・ライブラリ**  
 UniTask, DOTween   
   
-## [紹介動画](https://drive.google.com/drive/folders/1OQlcAl38-jSTPEbL7Vjf-TP6U1xbq0OW)   
+## [紹介動画](https://drive.google.com/drive/folders/1OQlcAl38-jSTPEbL7Vjf-TP6U1xbq0OW) 
+https://drive.google.com/drive/folders/1OQlcAl38-jSTPEbL7Vjf-TP6U1xbq0OW
 1分ほどの動画で紹介動画を作成しました。  
 前半はゲームの紹介、後半は作品のアピールポイントとなっています。
   
-## [クラス図](https://drive.google.com/drive/folders/11NZK1Bs4woaGELDTz8h22lZwatt-vurF)  
+## [クラス図](https://drive.google.com/drive/folders/11NZK1Bs4woaGELDTz8h22lZwatt-vurF) 
+https://drive.google.com/drive/folders/11NZK1Bs4woaGELDTz8h22lZwatt-vurF
 ファイル数が多くなっているためクラス図を添付しています。  
 クラス図に慣れていないため誤った書き方をしている場合があります。  
   
 ## [実行ファイル](https://drive.google.com/drive/folders/1hvTd0I4D8y7NWB5S7hCBg6BwRt79lj9N?usp=drive_link)  
+https://drive.google.com/drive/folders/1hvTd0I4D8y7NWB5S7hCBg6BwRt79lj9N?usp=drive_link
